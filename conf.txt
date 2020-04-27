@@ -1,0 +1,5 @@
+mirrornetworkdevice=ens192
+mgtnetworkdevice=ens160
+targetlistpath=targetlist.txt
+srcmac=00:0c:29:f0:1a:f6
+dstmac=d4:a1:48:96:6a:3c
